@@ -41,12 +41,12 @@ $ python main.py
 
 トランザクション数、取得時の価値の合計、現在の価値、取得モナ数、平均取得価格、現在の価格を表示します。
 
-number of transactions:    トランザクション数 
-total acquision value:     取得時の価値の合計 
-current value:             現在の価値
-total acquisition mona:    取得したモナ数
-average acquisition price: 平均取得価格
-current price:             現在の価格（９時時点）
+number of transactions:    トランザクション数   
+total acquision value:     取得時の価値の合計  
+current value:             現在の価値  
+total acquisition mona:    取得したモナ数  
+average acquisition price: 平均取得価格  
+current price:             現在の価格（９時時点）  
 
 期間を指定したい場合は、以下のようにします。
 
